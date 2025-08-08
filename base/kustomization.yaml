@@ -7,4 +7,4 @@ resources:
 images:
 - name: victoraldir/vote
   newName: victoraldir/vote
-  newTag: 781565e
+  newTag: 09c13ce
