@@ -4,4 +4,7 @@ resources:
 - rollout.yaml
 - service.yaml
 - preview-service.yaml
-
+images:
+- name: victoraldir/vote
+  newName: victoraldir/vote
+  newTag: 781565e
